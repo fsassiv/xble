@@ -9,7 +9,6 @@ export const TypewriterComponent = () => {
         [X]BLE
       </h1>
       <h1 className="font-[100] text-4xl flex text-white">
-        [
         <Typewriter
           options={{
             strings: techWordsNoBle,
@@ -19,7 +18,7 @@ export const TypewriterComponent = () => {
             pauseFor: 1000,
           }}
         />
-        ] ble
+        <b>ble</b>
       </h1>
     </div>
   );
