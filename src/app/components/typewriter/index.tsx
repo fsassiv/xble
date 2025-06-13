@@ -15,6 +15,7 @@ export const TypewriterComponent = () => {
             strings: techWordsNoBle,
             autoStart: true,
             loop: true,
+            // @ts-expect-error - no one knows
             pauseFor: 1000,
           }}
         />
