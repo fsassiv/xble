@@ -3,8 +3,8 @@ import { Lato } from 'next/font/google';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: '[x]ble',
-  description: '[x]ble',
+  title: '[_]ble',
+  description: '[_]ble',
 };
 
 const lato = Lato({

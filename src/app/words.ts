@@ -20,7 +20,7 @@ export const techWords = [
   'Recoverable',
   'Auditable',
   'Decodable',
-  '[X]',
+  '[_]',
 ];
 
 export const techWordsNoBle = [
@@ -45,5 +45,5 @@ export const techWordsNoBle = [
   'Recovera',
   'Audita',
   'Decoda',
-  'X',
+  '_',
 ];
